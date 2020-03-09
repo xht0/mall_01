@@ -1,4 +1,4 @@
-package com.cn.mall.tin.mbg.model;
+package com.cn.mall.tin.mbg;
 
 import org.mybatis.generator.api.MyBatisGenerator;
 import org.mybatis.generator.config.Configuration;
